@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HelloThereMatey
-- 👀 I’m interested in decentralized finance and data analysis. 
-- 🌱 I’m currently learning python based data processing with API data sources. 
-- 💞️ I’m looking to collaborate on defi related stuff, defichain especially. 
-- 📫 How to reach me yieldmaxi@protonmail.com or message here. 
+- 👀 I’m interested in data science and macroeconomic analysis. 
+- 🌱 I’m currently learning python based data science and API data sourcing. 
+- 💞️ I’m looking to collaborate on data science and macroeconomic analysis
+- 📫 How to reach me purpyfurcat@proton.me or message here. 
 
 <!---
 HelloThereMatey/HelloThereMatey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
